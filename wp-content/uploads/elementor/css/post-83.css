@@ -1,0 +1,267 @@
+.elementor-83 .elementor-element.elementor-element-d4b2882 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+  --overlay-opacity: 0.85;
+}
+.elementor-83
+  .elementor-element.elementor-element-d4b2882:not(.elementor-motion-effects-element-type-background),
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: var(--e-global-color-secondary);
+  background-image: url("https://alaskamotionfilms.com/wp-content/uploads/2024/05/aurora-borealis-landscape-sea-1-scaled.jpg");
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.elementor-83 .elementor-element.elementor-element-d4b2882::before,
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .elementor-background-video-container::before,
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .elementor-background-slideshow::before,
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-83
+  .elementor-element.elementor-element-d4b2882
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  --background-overlay: "";
+  background-color: var(--e-global-color-primary);
+}
+.elementor-83 .elementor-element.elementor-element-d4b2882,
+.elementor-83 .elementor-element.elementor-element-d4b2882::before {
+  --border-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-d4b2882.e-con {
+  --align-self: center;
+}
+.elementor-83 .elementor-element.elementor-element-593ed3f {
+  --spacer-size: 50px;
+}
+.elementor-83 .elementor-element.elementor-element-9a8caf5 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-185f6c2 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-23b1558 {
+  text-align: center;
+  width: auto;
+  max-width: auto;
+}
+.elementor-83
+  .elementor-element.elementor-element-23b1558
+  .elementor-heading-title {
+  color: var(--e-global-color-accent);
+  font-family: "Tahoma", Sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.elementor-83 .elementor-element.elementor-element-9f6fa92 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-a7dff25 {
+  text-align: center;
+}
+.elementor-83
+  .elementor-element.elementor-element-a7dff25
+  .elementor-heading-title {
+  color: var(--e-global-color-accent);
+  font-family: "Tahoma", Sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.elementor-83 .elementor-element.elementor-element-edc97da {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-b6544ef {
+  text-align: center;
+}
+.elementor-83
+  .elementor-element.elementor-element-b6544ef
+  .elementor-heading-title {
+  color: var(--e-global-color-accent);
+  font-family: "Tahoma", Sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.elementor-83 .elementor-element.elementor-element-f29ceb9 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-c1656f2 {
+  text-align: center;
+}
+.elementor-83
+  .elementor-element.elementor-element-c1656f2
+  .elementor-heading-title {
+  color: var(--e-global-color-accent);
+  font-family: "Tahoma", Sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.elementor-83 .elementor-element.elementor-element-1d1aa08 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-83 .elementor-element.elementor-element-1456e77 {
+  text-align: center;
+  width: auto;
+  max-width: auto;
+}
+.elementor-83
+  .elementor-element.elementor-element-1456e77
+  .elementor-heading-title {
+  color: var(--e-global-color-accent);
+  font-family: "Tahoma", Sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.elementor-83
+  .elementor-element.elementor-element-d9f9671
+  .hfe-site-logo-container,
+.elementor-83
+  .elementor-element.elementor-element-d9f9671
+  .hfe-caption-width
+  figcaption {
+  text-align: center;
+}
+.elementor-83
+  .elementor-element.elementor-element-d9f9671
+  .hfe-site-logo-container
+  .hfe-site-logo-img {
+  border-style: none;
+}
+.elementor-83
+  .elementor-element.elementor-element-d9f9671
+  .widget-image-caption {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.elementor-83 .elementor-element.elementor-element-e537f7b {
+  --divider-border-style: solid;
+  --divider-color: var(--e-global-color-accent);
+  --divider-border-width: 1px;
+}
+.elementor-83
+  .elementor-element.elementor-element-e537f7b
+  .elementor-divider-separator {
+  width: 190%;
+  margin: 0 auto;
+  margin-center: 0;
+}
+.elementor-83 .elementor-element.elementor-element-e537f7b .elementor-divider {
+  text-align: center;
+  padding-block-start: 2px;
+  padding-block-end: 2px;
+}
+.elementor-83 .elementor-element.elementor-element-a1f3832 {
+  text-align: center;
+}
+.elementor-83
+  .elementor-element.elementor-element-a1f3832
+  .elementor-heading-title {
+  color: #ecece8;
+  font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-secondary-font-weight);
+}
+@media (min-width: 768px) {
+  .elementor-83 .elementor-element.elementor-element-185f6c2 {
+    --width: 100%;
+  }
+  .elementor-83 .elementor-element.elementor-element-9f6fa92 {
+    --width: 100%;
+  }
+  .elementor-83 .elementor-element.elementor-element-edc97da {
+    --width: 100%;
+  }
+  .elementor-83 .elementor-element.elementor-element-f29ceb9 {
+    --width: 100%;
+  }
+  .elementor-83 .elementor-element.elementor-element-1d1aa08 {
+    --width: 100%;
+  }
+}
+@media (max-width: 1024px) {
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882:not(.elementor-motion-effects-element-type-background),
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882:not(.elementor-motion-effects-element-type-background),
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: 0px 0px;
+  }
+}
+@media (min-width: 1025px) {
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882:not(.elementor-motion-effects-element-type-background),
+  .elementor-83
+    .elementor-element.elementor-element-d4b2882
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-attachment: fixed;
+  }
+}
